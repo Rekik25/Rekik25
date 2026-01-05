@@ -1,18 +1,18 @@
-# Hi there, I'm Rohit Kumar 👋
+# Hi there, I'm Rohit Kumar
 
 ### Software Engineer | Full-Stack Developer | Automation Enthusiast
 
 I'm a Software Engineer with 4 years of experience building scalable applications, designing automation tools, and optimizing development workflows. Currently working at **John Deere**, where I've reduced manual testing efforts by 25% through award-winning tooling.
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently working on a **Social Media Chat Application** with real-time messaging
-- 🌱 Learning **Redux** and exploring advanced state management patterns
-- 💼 Building microservices and REST APIs with **.NET** and **React**
-- 🏆 2x Star of the Month at John Deere
-- 🎓 B.Tech in Electronics and Communication Engineering from **SVNIT Surat**
+- Currently working on a **Patient-Management-System Application**
+- Learning **Redux** and exploring advanced state management patterns
+- Building microservices and REST APIs with **.NET** and **React**
+- 2x Star of the Month at John Deere
+- B.Tech in Electronics and Communication Engineering from **SVNIT Surat**
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** C# • Python • JavaScript • C++ • SQL
 
@@ -28,15 +28,15 @@ I'm a Software Engineer with 4 years of experience building scalable application
 
 **Tools:** Git • GitHub • Kafka • MATLAB
 
-## 🌟 Highlights
+## Highlights
 
-- 📊 Reduced backend response times by **30%** through metric-driven optimizations
-- 🤖 Built award-winning C# automation tool eliminating **25% of manual workflows**
-- ✅ Achieved **85% code coverage** with TDD practices
-- 🔄 Enhanced CI/CD infrastructure, reducing deployment cycles by **20%**
-- 🎯 Maintained **99% reliability** across 350+ user stories
+- Reduced backend response times by **30%** through metric-driven optimizations
+- Built award-winning C# automation tool eliminating **25% of manual workflows**
+- Achieved **85% code coverage** with TDD practices
+- Enhanced CI/CD infrastructure, reducing deployment cycles by **20%**
+- Maintained **99% reliability** across 350+ user stories
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.kumar.codes@outlook.com)
@@ -48,4 +48,4 @@ I'm a Software Engineer with 4 years of experience building scalable application
 
 ---
 
-💡 *"Building efficient, scalable solutions one commit at a time"*
+*"Building efficient, scalable solutions one commit at a time"*
